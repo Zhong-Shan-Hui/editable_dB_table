@@ -1,4 +1,4 @@
-# editable_dB_table
+# Editable_dB_table
 
 The purpose of this is to create a database table for Live Ajax PHP CRUD operation like create, read, update and delete without refresh of web page.
 
